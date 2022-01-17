@@ -7,9 +7,9 @@
 
  ### 📊 Github Status : 
 
-![LuccaMS's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuccaMS&count_private=true&show_icons=true&theme=radical&hide=contribs,issues)
+[![LuccaMS's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuccaMS&count_private=true&show_icons=true&theme=radical&hide=contribs,issues)](https://github.com/LuccaMS/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaMS&exclude_repo=DataStructures&theme=radical&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaMS&exclude_repo=DataStructures&theme=radical&layout=compact)](https://github.com/LuccaMS/github-readme-stats)
 
 
  <br />
