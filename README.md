@@ -1,12 +1,11 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=LuccaMS.LuccaMS)
 [![Github](https://img.shields.io/github/followers/LuccaMS?label=Follow&style=social)](https://github.com/LuccaMS)
+
 ###  About Me : 
 
 - 👋 Hi, I'm Lucca
 - 🎓 Computer Engineering Student at [UFSC](https://en.ufsc.br)
 - 🤖 Machine Learning Enthusiast
-
-
 
  <br />
 
@@ -20,8 +19,9 @@
 <a href="https://www.javascript.com" target="_blank"> <img  alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/LuccaMS/LuccaMS/main/img/javascript.svg"> </a>
 <a href="https://nodejs.org" target="_blank"><img  alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/LuccaMS/LuccaMS/main/img/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/LuccaMS/LuccaMS/main/img/git.svg"  alt="git" height='42px'/> </a>
+<a href = "https://www.cplusplus.com" target="_blank"> <img src ="https://raw.githubusercontent.com/LuccaMS/LuccaMS/main/img/cpp.svg" 
+alt="cpp" height='42px'/> </a>
  
-
 
  <br />
 
