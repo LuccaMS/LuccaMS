@@ -9,7 +9,7 @@
 
 [![LuccaMS's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuccaMS&count_private=true&show_icons=true&theme=radical)](https://github.com/LuccaMS/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaMS&exclude_repo=DataStructures)](https://github.com/LuccaMS/github-readme-stats)
 
 
  <br />
