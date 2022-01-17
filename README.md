@@ -1,8 +1,6 @@
 
 
-
-<a href="https://www.linkedin.com/in/lucca-machado-da-silva-5072a3194/" target="_blank"><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/LuccaMS/LuccaMS/main/img/LinkedIn.svg" height='42px'/></a>
-
+<a href="https://www.linkedin.com/in/lucca-machado-da-silva-5072a3194/" target="_blank"><img align="left" alt="linkedin" height ="42px" src="https://raw.githubusercontent.com/LuccaMS/LuccaMS/main/img/LinkedIn.svg"></a>
 
 <br />
 
