@@ -1,8 +1,8 @@
 
 <br />
-<a href='https://www.linkedin.com/in/lucca-machado-da-silva-5072a3194/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/LuccaMS/LuccaMS/main/img/LinkedIn.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/lucca-machado-da-silva-5072a3194/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/LuccaMS/LuccaMS/main/img/LinkedIn.svg" height='54px'/></a>
 
-
+<br />
 **About me**
 
 - 🎓 Computer Engineering Student at [UFSC](https://en.ufsc.br)
