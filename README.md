@@ -55,5 +55,5 @@
 
 ### Contact me:
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/luccams/)
+- [linkedin.com/in/luccams/](https://www.linkedin.com/in/luccams/)
 - luccamachado16@gmail.com
