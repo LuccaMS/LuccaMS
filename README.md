@@ -10,6 +10,6 @@
 
 ### Check out some of my previous projects:
 
-- Exploratory data analysis in a eccomerce dataset from Kaggle. [Repository](glowing-rotary-phone)
-- Cancer classification using neural networks with Keras [Repository](/cancer_analysis)
-- System for people Couting using Yolo and an ESP-32 [Repository](/trab_ubiquos)
+- Exploratory data analysis in a eccomerce dataset from Kaggle. [Repository](https://github.com/LuccaMS/Ecommerce_analysis)
+- Cancer classification using neural networks with Keras [Repository](https://github.com/LuccaMS/cancer_analysis)
+- System for people Couting using Yolo and an ESP-32 [Repository](https://github.com/LuccaMS/trab_ubiquos)
