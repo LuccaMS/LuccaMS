@@ -29,24 +29,6 @@
   <img src="https://img.shields.io/badge/-NLP-FF6F00?logoColor=white&style=for-the-badge" alt="NLP" />
 </p>
 
-### Previous work experience:
-
-**Internship at Banco BTG Pactual (biggest investment bank in Latin America):**
-
-- Task automation with Python.
-- Development of RESTful APIs using FastAPI.
-- Integration of APIs with databases such as MySQL.
-- Development of interfaces using React.
-- Utilization of technologies such as Kubernetes and various AWS services like Lambda, S3, CloudWatch among others.
-
-**Internship at UFSC:**
-
-- Data analysis using Tableau, Seaborn, and Matplotlib.
-- Implementation of machine learning models with PyTorch and TensorFlow.
-- Data manipulation with Pandas in Python and R.
-- Development of chatbots using natural language processing (NLP).
-- Integration of LLMs (Large Language Models) in chatbots.
-
 ### Check out some of my public projects:
 
 - Exploratory data analysis in an e-commerce dataset from Kaggle. [Repository](https://github.com/LuccaMS/Ecommerce_analysis)
