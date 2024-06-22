@@ -34,6 +34,6 @@
 - Exploratory data analysis in an e-commerce dataset from Kaggle. [Repository](https://github.com/LuccaMS/Ecommerce_analysis)
 - Cancer classification using neural networks with Keras. [Repository](https://github.com/LuccaMS/cancer_analysis)
 - System for people counting using Yolo and an ESP-32. [Repository](https://github.com/LuccaMS/trab_ubiquos)
-
+### Cpntact info:
 - [linkedin.com/in/luccams/](https://www.linkedin.com/in/luccams/)
 - luccamachado16@gmail.com
