@@ -35,7 +35,5 @@
 - Cancer classification using neural networks with Keras. [Repository](https://github.com/LuccaMS/cancer_analysis)
 - System for people counting using Yolo and an ESP-32. [Repository](https://github.com/LuccaMS/trab_ubiquos)
 
-### Contact me:
-
 - [linkedin.com/in/luccams/](https://www.linkedin.com/in/luccams/)
 - luccamachado16@gmail.com
