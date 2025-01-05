@@ -6,7 +6,6 @@
 - 🤖 Machine Learning Enthusiast
 - 🖼️ Computer Vision
 - 📊 Data Science
-- 🛠️ Data Engineering
 
 ### Technologies I know:
 
@@ -19,21 +18,12 @@
   <img src="https://img.shields.io/badge/-AWS%20Lambda-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS Lambda" />
   <img src="https://img.shields.io/badge/-AWS%20S3-569A31?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS S3" />
   <img src="https://img.shields.io/badge/-AWS%20CloudWatch-FF4F8B?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS CloudWatch" />
-  <img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge" alt="Tableau" />
-  <img src="https://img.shields.io/badge/-Seaborn-4C9A85?logoColor=white&style=for-the-badge" alt="Seaborn" />
   <img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" alt="PyTorch" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas" />
-  <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge" alt="R" />
-  <img src="https://img.shields.io/badge/-NLP-FF6F00?logoColor=white&style=for-the-badge" alt="NLP" />
 </p>
 
-### Check out some of my public projects:
-
-- Exploratory data analysis in an e-commerce dataset from Kaggle. [Repository](https://github.com/LuccaMS/Ecommerce_analysis)
-- Cancer classification using neural networks with Keras. [Repository](https://github.com/LuccaMS/cancer_analysis)
-- System for people counting using Yolo and an ESP-32. [Repository](https://github.com/LuccaMS/trab_ubiquos)
 ### Contact info:
 - [linkedin.com/in/luccams/](https://www.linkedin.com/in/luccams/)
 - luccamachado16@gmail.com
