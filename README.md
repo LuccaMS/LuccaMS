@@ -2,10 +2,9 @@
 
 ### About me and interests: 
 
-- 🎓 Computer engineering student at [UFSC](https://en.ufsc.br)
+- 🎓 Computer engineer from [UFSC](https://en.ufsc.br)
 - 🤖 Machine Learning Enthusiast
-- 🖼️ Computer Vision
-- 📊 Data Science
+- 📊 Data Scientist
 
 ### Technologies I know:
 
